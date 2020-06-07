@@ -1,0 +1,4 @@
+#Sun Jun 07 11:17:57 ICT 2020
+base.0=/Users/macbook/Documents/ANDROID PROJECT/FLUTTER_PROJECT/stackoverflow/build/app/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
